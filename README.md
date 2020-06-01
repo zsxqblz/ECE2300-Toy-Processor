@@ -1,1 +1,2 @@
 # ECE2300-Toy-Processor
+A single-cycle processor. This is the project for the class ECE2300 at Cornell. All materials provided by the class (not written by myself) are removed in case of copyright issues.

@@ -1,0 +1,4 @@
+module registerFile(SA, SB, LD, DR, D_in, DataA, DataB);
+input [2:0]SA;
+input SB;
+input LD

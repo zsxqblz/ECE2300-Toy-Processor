@@ -1,0 +1,369 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/zyf/Documents/real_lab4/lab4/simulation/modelsim
+vadder
+Z1 !s110 1574127490
+!i10b 1
+!s100 X?jmd[;=IG1HXm[=D52l01
+I3@Zl9;[>NnKn7D8M@NLZZ3
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1572132904
+8C:/Users/zyf/Documents/real_lab4/lab4/adder.v
+FC:/Users/zyf/Documents/real_lab4/lab4/adder.v
+L0 1
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1574127490.751000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/adder.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4
+valu
+R1
+!i10b 1
+!s100 G0E@ILVGT??<EWYh8FFLG1
+I>c>GoN7NeLVLlFfaJkLZI0
+R2
+R0
+w1574125508
+8C:/Users/zyf/Documents/real_lab4/lab4/alu.v
+FC:/Users/zyf/Documents/real_lab4/lab4/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127490.639000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/alu.v|
+!i113 1
+R4
+R5
+vcontrol
+Z6 !s110 1574127491
+!i10b 1
+!s100 jgRPTUKXj69E7QKo;f2dN0
+IiV^BZG3^2g5;F10bJ5_8H0
+R2
+R0
+w1574126454
+8C:/Users/zyf/Documents/real_lab4/lab4/control.v
+FC:/Users/zyf/Documents/real_lab4/lab4/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.522000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/control.v|
+!i113 1
+R4
+R5
+vcpu
+R6
+!i10b 1
+!s100 JhK:FRX9Kd11U9?X0J^4W3
+IK50<anYBfdKZ1@AT@@EK00
+R2
+R0
+w1574125947
+8C:/Users/zyf/Documents/real_lab4/lab4/cpu.v
+FC:/Users/zyf/Documents/real_lab4/lab4/cpu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.634000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/cpu.v|
+!i113 1
+R4
+R5
+vdecoder
+R6
+!i10b 1
+!s100 Uje9=PX7QJ52QReG1?Xmh2
+Io5[?5z=3b1dW5ff9B7J_^0
+R2
+R0
+w1574114556
+8C:/Users/zyf/Documents/real_lab4/lab4/decoder.v
+FC:/Users/zyf/Documents/real_lab4/lab4/decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.080000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/decoder.v|
+!i113 1
+R4
+R5
+vdual_reg_in
+R6
+!i10b 1
+!s100 >ILMM3dKUFcXh=Y3m8PV<2
+IMWKTJZXi`f]RziWbW@MZe0
+R2
+R0
+Z7 w1539703278
+8C:/Users/zyf/Documents/real_lab4/lab4/dual_reg_in.v
+FC:/Users/zyf/Documents/real_lab4/lab4/dual_reg_in.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.960000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/dual_reg_in.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/dual_reg_in.v|
+!i113 1
+R4
+R5
+vhex_to_seven_seg
+R1
+!i10b 1
+!s100 lmbeBMe^3FN8Ah=cfj3gV0
+I@CDJSdUDnf]69Vhb6^@eC0
+R2
+R0
+R7
+8C:/Users/zyf/Documents/real_lab4/lab4/hex_to_seven_seg.v
+FC:/Users/zyf/Documents/real_lab4/lab4/hex_to_seven_seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127490.973000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/hex_to_seven_seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/hex_to_seven_seg.v|
+!i113 1
+R4
+R5
+vlab4
+R6
+!i10b 1
+!s100 k_V6zRc>cH>Ocm;M]>Llg2
+IZUTWn<AAKJO3z_Y8>b5TT1
+R2
+R0
+w1574127441
+8C:/Users/zyf/Documents/real_lab4/lab4/lab4.v
+FC:/Users/zyf/Documents/real_lab4/lab4/lab4.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.409000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/lab4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/lab4.v|
+!i113 1
+R4
+R5
+vlab4_test
+Z8 !s110 1574127492
+!i10b 1
+!s100 YHVGc2K1h>caj9PK<;TUN1
+IPN2X]l0`EbQhhb0J2m@YE3
+R2
+R0
+R7
+8C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v
+FC:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v
+L0 20
+R3
+r1
+!s85 0
+31
+!s108 1574127492.171000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v|
+!i113 1
+R4
+R5
+vlab4_top
+R6
+!i10b 1
+!s100 EQC;XAY2JGEN00ZQ]h_Yj0
+IidY4Y^f<i5a^HESoW>_H_1
+R2
+R0
+R7
+8C:/Users/zyf/Documents/real_lab4/lab4/lab4_top.v
+FC:/Users/zyf/Documents/real_lab4/lab4/lab4_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.853000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/lab4_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/lab4_top.v|
+!i113 1
+R4
+R5
+vlab4dram
+R1
+!i10b 1
+!s100 dXLfT1Z<9lA0Ez0HLDkiW2
+Io?JOj6?NPV0H]W@]Bm;NE1
+R2
+R0
+R7
+8C:/Users/zyf/Documents/real_lab4/lab4/lab4dram.v
+FC:/Users/zyf/Documents/real_lab4/lab4/lab4dram.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127490.862000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/lab4dram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/lab4dram.v|
+!i113 1
+R4
+R5
+vlab4iram2E
+R8
+!i10b 1
+!s100 <0SmgiWJie<QAMDKz=j3z3
+IFgSE6IKLcaI7;8fZkeh]H1
+R2
+R0
+w1541989128
+8C:/Users/zyf/Documents/real_lab4/lab4/lab4iram2e.v
+FC:/Users/zyf/Documents/real_lab4/lab4/lab4iram2e.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127492.064000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/lab4iram2e.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/lab4iram2e.v|
+!i113 1
+R4
+R5
+nlab4iram2@e
+vlogical
+R1
+!i10b 1
+!s100 1hdFf2GFK1UQ]YnSzXN4I3
+IOZYNY3R74eKB7mE5:@B160
+R2
+R0
+w1572302776
+8C:/Users/zyf/Documents/real_lab4/lab4/logical.v
+FC:/Users/zyf/Documents/real_lab4/lab4/logical.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127490.486000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/logical.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/logical.v|
+!i113 1
+R4
+R5
+vpclock
+R6
+!i10b 1
+!s100 ?=cOXl9;e9]66EjzI9[BU0
+IW6h2RM>LNNzWZNJ3^7W<Y0
+R2
+R0
+R7
+Z9 8C:/Users/zyf/Documents/real_lab4/lab4/var_clk.v
+Z10 FC:/Users/zyf/Documents/real_lab4/lab4/var_clk.v
+L0 52
+R3
+r1
+!s85 0
+31
+Z11 !s108 1574127491.183000
+Z12 !s107 C:/Users/zyf/Documents/real_lab4/lab4/var_clk.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/var_clk.v|
+!i113 1
+R4
+R5
+vregisterFile
+R6
+!i10b 1
+!s100 =ka`h6NSfk_K6]QI0?7H>0
+IW1gXIL:fi;S<7Fm8U14[?3
+R2
+R0
+w1573499557
+8C:/Users/zyf/Documents/real_lab4/lab4/registerFile.v
+FC:/Users/zyf/Documents/real_lab4/lab4/registerFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.745000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/registerFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/registerFile.v|
+!i113 1
+R4
+R5
+nregister@file
+vshifter
+R6
+!i10b 1
+!s100 bacY]ALMFM[oBA78BA2MN2
+IH9Cb=5ZHLFOj]F8[?dlBM0
+R2
+R0
+w1572312437
+8C:/Users/zyf/Documents/real_lab4/lab4/shifter.v
+FC:/Users/zyf/Documents/real_lab4/lab4/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1574127491.301000
+!s107 C:/Users/zyf/Documents/real_lab4/lab4/shifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zyf/Documents/real_lab4/lab4|C:/Users/zyf/Documents/real_lab4/lab4/shifter.v|
+!i113 1
+R4
+R5
+vvar_clk
+R6
+!i10b 1
+!s100 I74T7433gZW:e1zM[;`U`3
+I`zg^Tl^mjGHQIdb58EXE10
+R2
+R0
+R7
+R9
+R10
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R4
+R5

@@ -1,0 +1,365 @@
+# Reading C:/altera/15.0/modelsim_ase/tcl/vsim/pref.tcl
+# do ECE2300_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying C:/altera/15.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/altera/15.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/logical.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:10 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/logical.v 
+# -- Compiling module logical
+# 
+# Top level modules:
+# 	logical
+# End time: 09:38:10 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:10 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 09:38:10 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/adder.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:10 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/adder.v 
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# End time: 09:38:10 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/lab4dram.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:10 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/lab4dram.v 
+# -- Compiling module lab4dram
+# 
+# Top level modules:
+# 	lab4dram
+# End time: 09:38:10 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/hex_to_seven_seg.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:10 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/hex_to_seven_seg.v 
+# -- Compiling module hex_to_seven_seg
+# 
+# Top level modules:
+# 	hex_to_seven_seg
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/decoder.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/decoder.v 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/var_clk.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/var_clk.v 
+# -- Compiling module var_clk
+# -- Compiling module pclock
+# 
+# Top level modules:
+# 	var_clk
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/shifter.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/shifter.v 
+# -- Compiling module shifter
+# 
+# Top level modules:
+# 	shifter
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/lab4.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/lab4.v 
+# -- Compiling module lab4
+# 
+# Top level modules:
+# 	lab4
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/control.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/control.v 
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/cpu.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/cpu.v 
+# -- Compiling module cpu
+# 
+# Top level modules:
+# 	cpu
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/registerFile.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/registerFile.v 
+# -- Compiling module registerFile
+# 
+# Top level modules:
+# 	registerFile
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/lab4_top.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/lab4_top.v 
+# -- Compiling module lab4_top
+# 
+# Top level modules:
+# 	lab4_top
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/dual_reg_in.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:11 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/dual_reg_in.v 
+# -- Compiling module dual_reg_in
+# 
+# Top level modules:
+# 	dual_reg_in
+# End time: 09:38:11 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/lab4iram2e.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:12 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/lab4iram2e.v 
+# -- Compiling module lab4iram2E
+# 
+# Top level modules:
+# 	lab4iram2E
+# End time: 09:38:12 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/zyf/Documents/real_lab4/lab4 {C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 09:38:12 on Nov 19,2019
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zyf/Documents/real_lab4/lab4" C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v 
+# -- Compiling module lab4_test
+# 
+# Top level modules:
+# 	lab4_test
+# End time: 09:38:12 on Nov 19,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  lab4_test
+# vsim -gui "+altera" -l msim_transcript -do "ECE2300_run_msim_rtl_verilog.do" 
+# Start time: 09:38:12 on Nov 19,2019
+# Loading work.lab4_test
+# Loading work.lab4
+# Loading work.cpu
+# Loading work.decoder
+# Loading work.registerFile
+# Loading work.alu
+# Loading work.adder
+# Loading work.shifter
+# Loading work.logical
+# Loading work.control
+# Loading work.lab4iram2E
+# Loading work.lab4dram
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# MSIM> --> PC_EN = x at time = 0 (ignore until Part C)
+# MSIM> 
+# MSIM> --> PC_EN = 0 at time = 50 (ignore until Part C)
+# MSIM> 
+# MSIM> --> PC_EN = 1 at time = 250 (ignore until Part C)
+# MSIM> 
+# MSIM> Instr.   0 (PC =   2): LB   R1,  -7(R0)
+# MSIM> --> INPUT on IOA of 02
+# MSIM> --> Memory read appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   1 (PC =   4): ADDI R2, R0,   0
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   2 (PC =   6): SUB  R7, R7, R7
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   3 (PC =   8): BEQ  R0, R1,  16 (branches to PC =  42)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.   4 (PC =  10): ADDI R7, R0,   1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   5 (PC =  12): ADDI R3, R0,   3
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   6 (PC =  14): ADDI R2, R0,   1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   7 (PC =  16): BEQ  R1, R7,  12 (branches to PC =  42)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.   8 (PC =  18): SUB  R4, R1, R7
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.   9 (PC =  20): ADDI R4, R4,   1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  10 (PC =  22): BEQ  R0, R4,  10 (branches to PC =  44)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  11 (PC =  24): SRL  R5, R1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  12 (PC =  26): SRL  R6, R7
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  13 (PC =  28): SUB  R4, R5, R6
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  14 (PC =  30): BLTZ R4,   6 (branches to PC =  44)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  15 (PC =  32): ADD  R7, R7, R3
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  16 (PC =  34): ADDI R3, R3,   2
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  17 (PC =  36): ADDI R2, R2,   1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  18 (PC =  38): BNE  R0, R7, -11 (branches to PC =  18)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  19 (PC =  18): SUB  R4, R1, R7
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  20 (PC =  20): ADDI R4, R4,   1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  21 (PC =  22): BEQ  R0, R4,  10 (branches to PC =  44)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  22 (PC =  24): SRL  R5, R1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  23 (PC =  26): SRL  R6, R7
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  24 (PC =  28): SUB  R4, R5, R6
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  25 (PC =  30): BLTZ R4,   6 (branches to PC =  44)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  26 (PC =  44): ADDI R2, R2,  -1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  27 (PC =  46): SB   R2,  -2(R0)
+# MSIM> --> Output on IOF of 01
+# MSIM> --> Memory write appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  28 (PC =  48): ADDI R2, R0,  -1
+# MSIM> --> Appears correct (unable to verify that your register file was correctly updated).
+# MSIM> 
+# MSIM> Instr.  29 (PC =  50): BGEZ R0,   3 (branches to PC =  58)
+# MSIM> --> Appears correct (unable to verify that your register file was not modified).
+# MSIM> 
+# MSIM> Instr.  30 (PC =  58): HALT
+# MSIM> 
+# MSIM> --> PC_EN = 0 at time = 3350 (ignore until Part C)
+# MSIM> 
+# MSIM> --> PC_EN = 1 at time = 4050 (ignore until Part C)
+# MSIM> 
+# MSIM> Instr.  31 (PC =  60): NOP
+# MSIM> --> The test bench cannot observe NOP.  You should manually check that you haven't written to the register file.
+# MSIM> 
+# MSIM> Instr.  32 (PC =  62): NOP
+# MSIM> --> The test bench cannot observe NOP.  You should manually check that you haven't written to the register file.
+# MSIM> 
+# MSIM> Instr.  33 (PC =  64): NOP
+# MSIM> --> The test bench cannot observe NOP.  You should manually check that you haven't written to the register file.
+# MSIM> 
+# MSIM> Instr.  34 (PC =  66): NOP
+# MSIM> --> The test bench cannot observe NOP.  You should manually check that you haven't written to the register file.
+# MSIM> 
+# MSIM> Instr.  35 (PC =  68): NOP
+# MSIM> --> The test bench cannot observe NOP.  You should manually check that you haven't written to the register file.
+# MSIM> 
+# MSIM> ----------------------------------------------------------------------
+# MSIM> 
+# MSIM> PROGRAM EXECUTION SUMMARY
+# MSIM> =========================
+# MSIM> 
+# MSIM> OPCODE |  #Tests  | #Correct 
+# MSIM> -------+----------+----------
+# MSIM> NOP    |        5 |      N/A
+# MSIM> LB     |        1 |        1
+# MSIM> SB     |        1 |        1
+# MSIM> ADDI   |       10 |       10
+# MSIM> ANDI   |        0 |        0
+# MSIM> ORI    |        0 |        0
+# MSIM> ADD    |        1 |        1
+# MSIM> SUB    |        5 |        5
+# MSIM> SRA    |        0 |        0
+# MSIM> SRL    |        4 |        4
+# MSIM> SLL    |        0 |        0
+# MSIM> AND    |        0 |        0
+# MSIM> OR     |        0 |        0
+# MSIM> -------+----------+----------
+# MSIM> HALT   |        1 |      N/A
+# MSIM> BEQ    |        4 |        4
+# MSIM> BNE    |        1 |        1
+# MSIM> BGEZ   |        1 |        1
+# MSIM> BLTZ   |        2 |        2
+# MSIM> 
+# MSIM>      Correct Instructions:  30
+# MSIM>    Incorrect Instructions:   0
+# MSIM>   Unverified Instructions:   6
+# MSIM>      Invalid Instructions:   0
+# MSIM> Total Instructions Tested:  36
+# MSIM> 
+# MSIM> *****************************************************************
+# MSIM> **  You should manually verify that your register file is not  **
+# MSIM> **    being updated incorrectly!  Use the waveform to check    **
+# MSIM> **    this.  Also use the waveform to make sure that when a    **
+# MSIM> **   HALT instruction is reached, that the PC does not change  **
+# MSIM> **   until the active low button EN_L is pressed by the user.  **
+# MSIM> *****************************************************************
+# ** Note: $stop    : C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v(719)
+#    Time: 4500 ns  Iteration: 1  Instance: /lab4_test
+# Break in Module lab4_test at C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v line 719
+# Simulation Breakpoint: Break in Module lab4_test at C:/Users/zyf/Documents/real_lab4/lab4/lab4_test.v line 719
+# MACRO ./ECE2300_run_msim_rtl_verilog.do PAUSED at line 31
+# End time: 09:42:06 on Nov 19,2019, Elapsed time: 0:03:54
+# Errors: 0, Warnings: 0
